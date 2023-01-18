@@ -1,0 +1,27 @@
+#titulo-cita{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    color: white; 
+    margin-bottom: 30px;
+
+}
+#inf-agen{
+    margin-top: 80px;
+    color: #23a89f;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    margin-bottom: 40px;
+}
+#inf-a{
+    margin-top: 130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #686b69;
+}
+#btnHorarios{
+   
+    font-size: 20px;   
+    border-radius: 25px; 
+
+}

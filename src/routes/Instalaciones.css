@@ -1,0 +1,27 @@
+#titulo-intalaciones{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    color: white; 
+
+}
+#info-inst{
+    margin-top: 90px;
+    color: #686b69;
+    font-size: 20px;
+}
+#text-feliz{
+    margin-top: 100px;
+    color: #23a89f;
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+}
+#text2-inst{
+    margin-left: 60px;
+   
+    color: #686b69;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+
+}

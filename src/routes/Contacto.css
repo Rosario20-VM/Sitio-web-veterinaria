@@ -1,0 +1,36 @@
+#titulo-contacto{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    color: white; 
+
+}
+#text-cont{
+    margin-top: 100px;
+    color: #23a89f;
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+#text-email{
+    margin-top: 50px;
+}
+#text-style{
+    background-color:#dcdcdc;
+    border-radius: 20px;  
+    font-family: 'Shadows Into Light', cursive;  
+    
+}
+#frase{
+    margin-top: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #686b69;
+
+}
+#cont{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #686b69;
+
+}

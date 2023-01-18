@@ -1,0 +1,25 @@
+#titulo-servicios{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    color: white;   
+}
+#fila-uno{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#imagenes{
+    margin-top: 50px;
+    color: #686b69;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: left;   
+}
+#info-serv{
+    margin-top: 150px;
+    font-family: 'Shadows Into Light', cursive;
+    color: #23a89f;
+    font-size: 50px;
+
+}

@@ -1,0 +1,65 @@
+#titulo-nosotros, #titulo-servicios, #titulo-instalaciones{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+   
+}
+h2{
+    color: white;
+}
+#text-nav{
+    color: #b4b7b5;
+    font-family: 'Shadows Into Light', cursive;
+    font-style:oblique;
+    font-size: 30px;
+    
+}
+#info{
+    margin-top: 130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #686b69;
+}
+#info-servicios{
+    margin-top: 140px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #686b69;
+
+}
+#btn-servicios, #btn-agendar{
+    margin-top: 30PX;
+    border-radius: 25px; 
+    margin-bottom: 30px;   
+}
+#galeria{
+    background-color:#9ce0db;
+    color: #686b69;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+#perro{
+    margin-top: 70px;
+}
+#gato{
+    margin-top: 10px;
+}
+#gato2{
+    margin-top: 30px;
+}
+#perro2{
+    margin-top: 30px;
+}
+footer{
+    
+    background-color: #5dc1b9;
+}
+#footer-container{
+    margin-top: 30PX;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+#redes{
+    margin-top: 70PX;
+
+}

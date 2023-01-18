@@ -1,0 +1,38 @@
+#titulo-equipo{
+    background-color:#9ce0db;
+    height: 100px;
+    width: 100%;
+    color: white; 
+
+}
+#frase-inicio{
+    margin-top: 80px;
+    color: #23a89f;
+    font-size: 40px;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+#inf-equipo{
+    margin-top: 90px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #686b69;
+}
+#inf-cont{
+    margin-top: 50px;
+    color: #23a89f;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    
+
+}
+#img3{
+    margin-top: 30px;
+}
+#inf-estetica{
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #686b69;
+
+}
